@@ -1,9 +1,9 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("nihao");
+        System.out.println("bianhua");
 
-        int a = 10;
-        int b  = 20;
+        int a = 23;
+        int b  = 33;
 
     }
 }
