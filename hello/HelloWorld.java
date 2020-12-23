@@ -3,8 +3,11 @@ public class HelloWorld {
         System.out.println("hello");
         for (int i = 0; i <100 ; i++) {
             System.out.println("aini");
-            int a = 100;
-            int b = 1000;
+
+
+
+
+
         }
     }
 }
