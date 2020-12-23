@@ -6,6 +6,9 @@ public class HelloWorld {
 
 
 
+            int  a = 100;
+
+
 
 
         }
