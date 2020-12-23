@@ -9,6 +9,7 @@ public class HelloWorld {
             int  a = 100;
 
 
+            int c = 300;
 
 
         }
