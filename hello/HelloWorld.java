@@ -5,5 +5,8 @@ public class HelloWorld {
         int a = 23;
         int b  = 33;
 
+        for (int i = 0; i <1000 ; i++) {
+            System.out.println(i);
+        }
     }
 }
