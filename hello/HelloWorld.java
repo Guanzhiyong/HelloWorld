@@ -12,6 +12,7 @@ public class HelloWorld {
             int c = 300;
 
 
+            int b = 2;
         }
     }
 }
