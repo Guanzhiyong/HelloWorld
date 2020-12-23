@@ -1,7 +1,10 @@
+import javax.xml.transform.Source;
+
 public class HelloWorld {
     public static void main(String[] args) {
-        for (int i = 0; i <1000 ; i++) {
-            System.out.println(i);
-        }
+        System.out.println("helloworld");
+        System.out.println("helloworld");
+        System.out.println("helloworld");
+        System.out.println("helloworld");
     }
 }
